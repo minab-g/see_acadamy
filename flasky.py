@@ -1,0 +1,1 @@
+print("love is dead 👽")
